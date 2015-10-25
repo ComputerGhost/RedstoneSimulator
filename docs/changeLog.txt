@@ -1,0 +1,7 @@
+
+
+== October 25, 2015 ==
+Version 1.0
+
+Initial version released.  I have plans to add additional basic redstone components soon.
+

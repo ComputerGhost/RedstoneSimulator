@@ -1,0 +1,10 @@
+This is mine.
+My name is Nathan Belue (aka ComputerGhost).
+
+I reserve all my rights under law, except for when I explicitely give permission for this or that, in writing.
+
+You can use this software and redistribute it.  You may study the source code and learn from it.  You may not distribute derivative works at this time.  You must distribute this license with this program.
+
+I may create a new license at any point in the future and distribute the new license with a new version of the software.  In such a case, the license will not apply to previous versions unless I explicitely say so.
+
+Licence dated October 25, 2015.

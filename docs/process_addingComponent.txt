@@ -1,0 +1,18 @@
+	This document details the steps needed to add a new component to the redstone library.  All of these steps need to be followed or else it won't work right.
+
+1 - Add source and header files for new component in src/components directory and add to project in same filter.
+
+2 - New components must inherit from Redstone::Component.  They must also take care to implement these methods correctly:
+	- clone
+	- update
+	- getId
+	- operator==
+
+3 - If a Redstone::Component::ID does not already exist for your component, create one in the Component.h file.
+
+4 - Update all other components.  How does each other component interract with yours?  Add support in each one that does respond to yours.
+
+5 - Add support in the Schematic class.
+
+7 - Create a test program to run it through its loops.
+

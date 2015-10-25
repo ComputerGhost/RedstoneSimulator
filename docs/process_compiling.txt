@@ -1,0 +1,9 @@
+Compiling shouldn't be too hard.
+
+You will need both gzstream and zlib libraries.
+
+Compile all of the files in the src directory.
+
+Choose and compile a single file in the tests directory.  Or, create your own program!
+
+Piece of cake!
